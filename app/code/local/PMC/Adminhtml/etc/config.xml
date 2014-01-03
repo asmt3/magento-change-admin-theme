@@ -1,0 +1,14 @@
+<config>
+    <stores>
+        <admin>
+            <design>
+                <package>
+                    <name>default</name>
+                </package>
+                <theme>
+                    <default>mytheme</default>
+                </theme>
+            </design>
+        </admin>
+    </stores>
+</config>
